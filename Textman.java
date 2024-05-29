@@ -165,7 +165,7 @@ class Textman{
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     public static void decode(){
-        System.out.println("Enter the path and name of your file without '.txt' prefix, example : Desktop\\Filename");
+        System.out.println("Enter the path and name of your file without '.Textman' prefix, example : Desktop\\Filename");
         input.nextLine();
         String file = input.nextLine();
         String code ="";
